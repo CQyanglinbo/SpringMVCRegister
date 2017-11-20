@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+.container{
+		width:800px;
+		height:500px;
+		margin-top: 70px;
+		margin-left: 300px;
+		background-color: #FAFBFA;
+		border: 1px solid #D1D1D1;
+		border-radius: 25px;
+	}
+	h2{
+		text-align: center;
+	}
+	.biger{
+		border:solid 1px #FAFBFA;
+		height:300px;
+	}
+	.input1{
+		border:solid 1px #FAFBFA;
+		margin-top: 60px;
+	}
+
+	p{
+		height: 40px;
+		text-align: center;
+		line-height: 40px;
+		
+	}
+	.inputBox{
+		width:400px;
+		height: 35px;
+	}
+	.buttonDiv{
+		margin-top: 30px;
+		text-align: center;
+	}
+	.button{
+		text-align: center;
+		width:80px;
+		height: 30px;
+	}
+	.input2{
+		border:solid 1px #FAFBFA;
+		margin-top: 20px;
+	}
